@@ -130,7 +130,7 @@ const LatestMarketingSlider = () => {
           <CarouselNext className="hidden md:flex" />
         </Carousel>
 
-        
+      </div>
     </section>
   );
 };
